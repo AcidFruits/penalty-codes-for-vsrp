@@ -1,0 +1,310 @@
+<CompuLiteCitations>
+	<CitationGroup name="Alcohol">
+		<Citation name="Open Container of Alcohol in MotorVehicle" fine="130"/>
+		<Citation name="Possession Persons Under 21" fine="110"/>
+		<Citation name="Underage Consumption" fine="125"/>
+		<Citation name="(A)-Public Intoxication" fine="55"/>
+		<Citation name="Open Container (Public)" fine="80"/>
+		<Citation name="(A)-Contributing to A Minor" fine="550"/>
+	</CitationGroup>
+	<CitationGroup name="Public / Arrestable">
+		<Citation name="(A)-Possession Marijuana Less 15gr" fine="200"/>
+		<Citation name="(A)-Public Urination" fine="75"/>
+		<Citation name="(A)-Loitering" fine="50"/>
+		<Citation name="(A)-Unlawful Contact" fine="375"/>
+		<Citation name="(A)-Trespassing" fine="125"/>
+		<Citation name="(A)-Reckless Endangerment" fine="480"/>
+		<Citation name="(A)-Fighting in Public" fine="125"/>
+		<Citation name="(A)-Disturbing The Peace" fine="175"/>
+		<Citation name="(A)-Disorderly Conduct" fine="155"/>
+		<Citation name="(A)-Failure to Disperse" fine="165"/>
+		<Citation name="(A)-Graffiti" fine="250"/>
+		<Citation name="(A)-Criminal Mischief" fine="200"/>
+		<Citation name="(A)-Indecent Exposure" fine="480"/>
+		<Citation name="(A)-ShopLifting" fine="160"/>
+		<Citation name="(A)-Petit Larceny" fine="160"/>
+		<Citation name="(A)-Public Indecency" fine="480"/>
+	</CitationGroup>
+	<CitationGroup name="Misc. Public">
+		<Citation name="Littering" fine="125"/>
+		<Citation name="Illegal Dumping" fine="1000"/>
+		<Citation name="Jaywalking" fine="30"/>
+		<Citation name="Smoking Violation" fine="50"/>
+		<Citation name="Camping W/Out Permit" fine="50"/>
+		<Citation name="Camping Prohibited" fine="90"/>
+		<Citation name="Possession of Fake ID/Drivers License" fine="120"/>
+		<Citation name="Possession of Expired ID/Drivers License" fine="60"/>
+		<Citation name="Train Track Trespassing" fine="150"/>
+		<Citation name="Public Protest Must be Permitted" fine="280"/>
+		<Citation name="Pedestrians Prohibited on Freeway" fine="40"/>
+	</CitationGroup>
+	<CitationGroup name="Pets/Wildlife">
+		<Citation name="Dog Must be Leashed in Public" fine="60"/>
+		<Citation name="(A)-Animal Cruelty" fine="460"/>
+		<Citation name="Fishing W/Out License" fine="130"/>
+		<Citation name="Hunting W/Out License" fine="180"/>
+		<Citation name="Hunting Restricted Land" fine="120"/>
+		<Citation name="Excess of Daily Species Limit" fine="230"/>
+		<Citation name="Fishing Restricted Area" fine="160"/>
+		<Citation name="Hunting Out of Season" fine="500"/>
+		<Citation name="Shooting From Vehicle/Roadway" fine="700"/>
+		<Citation name="Poaching" fine="1000"/>
+		<Citation name="Open Fire/ Restricted Season" fine="90"/>
+	</CitationGroup>
+	<CitationGroup name="Speeding">
+		<Citation name="Too Fast for Conditions" fine="215"/>
+		<Citation name="Excessive Acceleration" fine="110"/>
+		<Citation name="Left/Passing Lane less than Posted Limit" fine="75"/>
+		<Citation name="Highway Minimum Speed Regulation" fine="75"/>
+		<Citation name="Impeding (15+ Under)" fine="75"/>
+		<Citation name="Unlawful Speed 0-9 Over" fine="75"/>
+		<Citation name="Unlawful Speed 10-14 Over" fine="90"/>
+		<Citation name="Unlawful Speed 15-20 Over" fine="140"/>
+		<Citation name="Unlawful Speed 21-26 Over" fine="170"/>
+		<Citation name="Unlawful Speed 27-29 Over" fine="240"/>
+		<Citation name="(A)Unlawful Speed (Over 30+)" fine="500"/>
+	</CitationGroup>
+	<CitationGroup name=" Signals/Signs">
+		<Citation name="Failure to Stop at Stop Sign" fine="215"/>
+		<Citation name="Failure to Stop for Traffic Signal" fine="260"/>
+		<Citation name="Failure to Stop at R/R Signal/Barrier" fine="230"/>
+		<Citation name="Failure to Comply w/Lane Direction Sign/Device" fine="130"/>
+		<Citation name="Wrong Direction on Posted OneWay" fine="220"/>
+	</CitationGroup>
+	<CitationGroup name="Passing/Turning">
+		<Citation name="Improper Lane Change or Course" fine="90"/>	
+		<Citation name="Improper Passing" fine="90"/>
+		<Citation name="Improper Turn" fine="75"/>
+		<Citation name="Failure to Signal" fine="60"/>
+		<Citation name="Overtaking/Passing on Shoulder" fine="330"/>
+		<Citation name="Passing in a No Passing Zone" fine="360"/>
+		<Citation name="Failure to Make Turn as Directed by Sign/Device" fine="75"/>
+		<Citation name="Illegal U-Turn" fine="80"/>
+		<Citation name="Left Turn on Red" fine="180"/>
+		<Citation name="Failure to Maintain Lane" fine="120"/>
+		<Citation name="Turning on Curve or Crest of Grade Prohibited" fine="75"/>
+		<Citation name="Crossing Over a Center Divider, Median or Gore" fine="120"/>
+		<Citation name="Left of Center" fine="120"/>
+	</CitationGroup>
+	<CitationGroup name="Intersections/Yeilding">
+		<Citation name="Failure to MOVEOVER/Yeild to stopped Emergency Vehicle/Personel" fine="400"/>	
+		<Citation name="Failure to Yield to Emergency Vehicle" fine="320"/>
+		<Citation name="Failure to Yield to Pedestrian in Cross Walk" fine="360"/>
+		<Citation name="Duty to Yield to Highway Workers" fine="360"/>
+		<Citation name="Duty to Yield to Public Transit Vehicles" fine="160"/>
+		<Citation name="Failure to Yield at Intersection" fine="130"/>
+		<Citation name="Failure to Yield Entering Roadway/Highway" fine="130"/>
+		<Citation name="Failure to Yield" fine="160"/>
+		<Citation name="Failure to Yield When Left of Obstructed Lane" fine="90"/>
+		<Citation name="Violation of Right of Way" fine="90"/>
+		<Citation name="Failure to Yield Entering Highway " fine="90"/>
+	</CitationGroup>
+	<CitationGroup name="Operation">
+		<Citation name="Failure to Maintain Safe Distance (Tailgating)" fine="215"/>
+		<Citation name="Careless Driving" fine="200"/>
+		<Citation name="Unsafe Operation on Road/Highway" fine="215"/>
+		<Citation name="Driving on the Shoulder" fine="160"/>
+		<Citation name="Failure to Maintain Lane" fine="120"/>
+		<Citation name="Crossing Double Yellow" fine="170"/>
+		<Citation name="Driving on Sidewalk, Pedestrian/Bicycle Path" fine="300"/>
+		<Citation name="Obstruction to Drivers View" fine="75"/>
+		<Citation name="Unlawful for Persons to Ride on Exterior of Vehicle" fine="80"/>
+		<Citation name="Littering From Vehicle" fine="125"/>
+		<Citation name="Failure to Secure Load to Vehicle or Lorry" fine="150"/>
+		<Citation name="Failure to Tarp/Cover Load/Debri" fine="80"/>
+		<Citation name="Load Projecting from Vehicle" fine="90"/>
+		<Citation name="Operating a Telecommunications Device While Driving" fine="160"/>
+		<Citation name="Stopping on Rail Crossing" fine="180"/>
+	</CitationGroup>
+	<CitationGroup name="Operation (Criminal)">
+		<Citation name="(A)Driving Wrong Way" fine="1000"/>	
+		<Citation name="(A)Reckless Driving" fine="500"/>
+		<Citation name="(A)Leaving the Scene of an Accident" fine="1000"/>
+		<Citation name="(A)Driving While License Suspended" fine="500"/>
+		<Citation name="(A)Driving Without License" fine="300"/>
+		<Citation name="(A)Driving With License Expired 1yr +" fine="300"/>
+		<Citation name="(A)DWI 1st Offense .08%" fine="500"/>
+		<Citation name="(A)DWI 1st Offense Under 21 .04%" fine="500"/>
+		<Citation name="(A)DWI 1st Offense Motorcycle .04%" fine="500"/>
+		<Citation name="(A)DWI 1st Offense Comm. CDL .04%" fine="500"/>
+		<Citation name="(A)DUI Narcotics 1st Offense " fine="500"/>
+	</CitationGroup>
+	<CitationGroup name="Bikes,ATV,Offroad">
+		<Citation name="DOT Approved Helmet Required (Operator)" fine="120"/>	
+		<Citation name="DOT Approved Helmet Required (Passenger)" fine="120"/>
+		<Citation name="DOT Approved Safety Glasses/Sheild Required" fine="110"/>
+		<Citation name="MotorCycle License Endorsement" fine="180"/>
+		<Citation name="Motorcycle Lane Splitting" fine="260"/>
+		<Citation name="MotorCycle Riding No More than 2 Abreast" fine="140"/>
+		<Citation name="MotorCycle Headlights to be On when in Operation" fine="90"/>
+		<Citation name="Bicycles Must Ride on Right" fine="50"/>
+		<Citation name="Bicycle Riding No More than 2 Abreast" fine="35"/>
+		<Citation name="Helmet Required (Paved Road)" fine="25"/>
+		<Citation name="Unlawful to Operate a Bicycle on a Highway" fine="60"/>
+		<Citation name="Offroad Vehicle Must not Drive on Roadway or Shoulder" fine="120"/>
+		<Citation name="ATV Must not Operate on Roadway or Shoulder" fine="120"/>
+		<Citation name="(ATV)DOT Approved Helmet Required (Operator)" fine="90"/>
+		<Citation name="(ATV)DOT Approved Helmet Required (Passenger)" fine="90"/>
+		<Citation name="Golfcart Prohibited on Road/Highway" fine="130"/>
+	</CitationGroup>
+	<CitationGroup name="Accident">
+		<Citation name="At Fault in an Accident" fine="540"/>
+		<Citation name="Failure to Maintain Control" fine="860"/>
+		<Citation name="Driver to Exercise Due Care to Avoid Accident" fine="790"/>	
+	</CitationGroup>
+	<CitationGroup name="Non-Moving">
+		<Citation name="Obstruction of Public Street,Highway or Road" fine="110"/>
+		<Citation name="Blocking Right of Way" fine="90"/>
+		<Citation name="Stopping,Standing or Parking Prohibited" fine="90"/>	
+	</CitationGroup>
+	<CitationGroup name="Equipment">
+		<Citation name="Defective Equipment" fine="90"/>
+		<Citation name="Safety Belt Violation" fine="120"/>
+		<Citation name="UnRoadworthy Vehicle" fine="160"/>
+		<Citation name="Windshield Damaged Drivers View" fine="110"/>
+		<Citation name="Windshield Required" fine="110"/>
+		<Citation name="Illegal Window Tint" fine="120"/>
+		<Citation name="Illuminate Lights as Required" fine="90"/>
+		<Citation name="Lights Must be Illuminated in Rain" fine="90"/>
+		<Citation name="Neon/Underglow Prohibited While in Motion" fine="80"/>        
+		<Citation name="Veh must Have Min 2 Headlights (1 Each Side)" fine="60"/>
+		<Citation name="Failure to Dim to Oncoming Traffic" fine="50"/>
+		<Citation name="Veh must Have Min 2 Red Taillights (1 Each Side)" fine="60"/>
+		<Citation name="Prohibited Lighting" fine="100"/>		
+	</CitationGroup>	
+	<CitationGroup name="Documents">
+		<Citation name="Failure to Insure Vehicle" fine="250"/>
+		<Citation name="Failure To Insure Vehicle (2nd Offence)" fine="500"/>
+		<Citation name="Expired Insurance" fine="250"/>
+		<Citation name="Failure to Register Vehicle" fine="250"/>
+		<Citation name="Expired Vehicle Registration" fine="250"/>
+		<Citation name="Expired Registration 30days+" fine="500"/>
+		<Citation name="Failure to Display License Plate" fine="60"/>
+		<Citation name="Improper Registration" fine="250"/>
+		<Citation name="License Not Carried" fine="60"/>		
+		<Citation name="Expired Drivers License" fine="140"/>
+		<Citation name="Expired Drivers License (> 30 days)" fine="260"/>
+		<Citation name="Learners Permit/Compliance" fine="100"/>
+	</CitationGroup>
+	<CitationGroup name="Parking">
+		<Citation name="Parking in Tunnel" fine="25"/>
+		<Citation name="Parking in Bike Lane" fine="50"/>
+		<Citation name="Parking Upon or Near Railroad Track" fine="50"/>
+		<Citation name="Blocking Access To Disabled Spot" fine="80"/>
+		<Citation name="Double-Parking" fine="25"/>
+		<Citation name="Parked in Opposite Direction of Traffic" fine="25"/>
+		<Citation name="Parked on Designated Disabled Space" fine="80"/>
+		<Citation name="Parking in loading Zone" fine="30"/>
+		<Citation name="Parking in front of Fire Hydrants" fine="80"/>
+		<Citation name="Parking Blocking Excavation" fine="25"/>
+		<Citation name="Parking Blocking a Driveway" fine="25"/>
+		<Citation name="Parking Near Sidewalk Access Ramp" fine="25"/>
+		<Citation name="Parking on No-Parking Zone" fine="25"/>
+		<Citation name="Parking on or Blocking Crosswalk" fine="30"/>
+		<Citation name="Parking Posted Fire Lane" fine="80"/>
+		<Citation name="Parking on Sidewalk" fine="70"/>
+		<Citation name="Parking in an Intersection" fine="80"/>
+		<Citation name="Parking Upon Bridge" fine="40"/>
+	</CitationGroup>
+	<CitationGroup name="Written Warning (Traffic)">
+		<Citation name="Unlawful Speed Over Posted Limit"/>
+		<Citation name="Unlawful Speed Under Posted Limit"/>
+		<Citation name="Failure to Stop at Stop Sign"/>
+		<Citation name="Failure to Stop for Traffic Signal"/>
+		<Citation name="Failure to Comply w/Lane Direction Sign/Device"/>
+		<Citation name="Improper Lane Change or Course"/>	
+		<Citation name="Improper Passing"/>
+		<Citation name="Improper Turn"/>
+		<Citation name="Failure to Signal"/>
+		<Citation name="Failure to Make Turn as Directed by Sign/Device"/>
+		<Citation name="Illegal U-Turn"/>
+		<Citation name="Failure to Maintain Lane"/>
+		<Citation name="Turning on Curve or Crest of Grade Prohibited"/>
+		<Citation name="Crossing Over a Center Divider, Median or Gore"/>
+		<Citation name="Left of Center"/>
+		<Citation name="Failure to Yield at Intersection"/>
+		<Citation name="Failure to Yield Entering Roadway/Highway"/>
+		<Citation name="Failure to Yield"/>
+		<Citation name="Obstruction to Drivers View"/>
+		<Citation name="Unlawful for Persons to Ride on Exterior of Vehicle"/>
+		<Citation name="Littering From Vehicle"/>
+		<Citation name="Failure to Tarp/Cover Load/Debri"/>
+		<Citation name="Operating a Telecommunications Device While Driving"/>
+		<Citation name="Stopping on Rail Crossing"/>
+		<Citation name="Obstruction of Public Street,Highway or Road"/>
+		<Citation name="Failure to Maintain Safe Distance (Tailgating)"/>
+		<Citation name="Left Turn on Red"/>
+		<Citation name="Failure to Yield Entering Highway"/>
+		<Citation name="Driving on the Shoulder"/>
+		<Citation name="Driving on Sidewalk, Pedestrian/Bicycle Path"/>
+		<Citation name="Crossing Double Yellow"/>
+	</CitationGroup>
+	<CitationGroup name="Written Warning (Equipment)">
+		<Citation name="Veh must Have Min 2 Red Taillights (1 Each Side)"/>
+		<Citation name="Prohibited Lighting"/>
+		<Citation name="Defective Equipment"/>
+		<Citation name="Safety Belt Violation"/>
+		<Citation name="UnRoadworthy Vehicle"/>
+		<Citation name="Windshield Damaged Drivers View"/>
+		<Citation name="Windshield Required"/>
+		<Citation name="Illegal Window Tint"/>
+		<Citation name="Illuminate Lights as Required"/>
+		<Citation name="Lights Must be Illuminated in Rain"/>
+		<Citation name="Neon/Underglow Prohibited While in Motion"/>        
+		<Citation name="Veh must Have Min 2 Headlights (1 Each Side)"/>
+		<Citation name="Failure to Dim to Oncoming Traffic"/>
+	</CitationGroup>
+	<CitationGroup name="Written Warning (Ducuments)">
+		<Citation name="Expired Insurance"/>
+		<Citation name="Expired Vehicle Registration"/>
+		<Citation name="License Not Carried"/>
+		<Citation name="Expired Drivers License"/>
+		<Citation name="Learners Permit/Compliance"/>
+		<Citation name="Failure to Display License Plate"/>
+	</CitationGroup>
+	<CitationGroup name="Written Warning (M/Bikes/Offroad)">
+		<Citation name="DOT Approved Helmet Required (Operator)"/>	
+		<Citation name="DOT Approved Helmet Required (Passenger)"/>
+		<Citation name="DOT Approved Safety Glasses/Sheild Required"/>
+		<Citation name="Helmet Required (Paved Road)"/>
+		<Citation name="Unlawful to Operate a Bicycle on a Highway"/>
+	</CitationGroup>
+	<CitationGroup name="Written Warning (Parking)">
+		<Citation name="Blocking Right of Way"/>
+		<Citation name="Stopping,Standing or Parking Prohibited"/>
+		<Citation name="Parking in Tunnel"/>
+		<Citation name="Parking in Bike Lane"/>
+		<Citation name="Parking Upon or Near Railroad Track"/>
+		<Citation name="Blocking Access To Disabled Spot"/>
+		<Citation name="Double-Parking"/>
+		<Citation name="Parked in Opposite Direction of Traffic"/>
+		<Citation name="Parked on Designated Disabled Space"/>
+		<Citation name="Parking in loading Zone"/>
+		<Citation name="Parking in front of Fire Hydrants"/>
+		<Citation name="Parking Blocking Excavation"/>
+		<Citation name="Parking Blocking a Driveway"/>
+		<Citation name="Parking Near Sidewalk Access Ramp"/>
+		<Citation name="Parking on No-Parking Zone"/>
+		<Citation name="Parking on or Blocking Crosswalk"/>
+		<Citation name="Parking Posted Fire Lane"/>
+		<Citation name="Parking on Sidewalk"/>
+		<Citation name="Parking in an Intersection"/>
+		<Citation name="Parking Upon Bridge"/>
+	</CitationGroup>
+	<CitationGroup name="Written Warning (Public)">
+		<Citation name="Open Container (Public)"/>
+		<Citation name="Poss. Alcohol Person Under 21"/>
+		<Citation name="Publix Intoxication"/>
+		<Citation name="Urinating in Public"/>
+		<Citation name="Disturbing the Peace"/>
+		<Citation name="Littering"/>
+	 	<Citation name="(A)-Loitering"/>
+		<Citation name="Official Trespassing Notice"/>
+		<Citation name="Dog Must be Leashed in Public"/>
+		<Citation name="Jaywalking"/>
+		<Citation name="Smoking Violation"/>
+		<Citation name="Camping W/Out Permit"/>
+		<Citation name="Train Track Trespassing"/>
+		<Citation name="Pedestrians Prohibited on Freeway"/>
+	</CitationGroup>
+</CompuLiteCitations>
